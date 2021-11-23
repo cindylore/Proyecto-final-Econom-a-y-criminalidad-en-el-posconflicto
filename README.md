@@ -5,6 +5,7 @@ El conflicto armado, perpetrado por más de 50 años en Colombia generó un recr
 Uno de los efectos más esperados a corto plazo luego de la firma del Acuerdo, es la reducción significativa de los homicidios, no obstante, este fenómeno es recurrente.  En esta investigación se pretende analizar la evolución de los homicidios en el posconflicto a partir del estudio de variables sociodemográficas y económicas, y determinar si existe o no influencia de las mismas, identificando cuáles deberían ser consideradas dentro de la agenda política.
 
 Las principales preguntas que esta investigación busca responder son las siguientes:
+
 •	Cuál ha sido el comportamiento de los homicidios en Colombia luego de la firma del Acuerdo de Paz con las FARC-EP.
 •	Existe una relación de causalidad entre homicidios, PIB y desempleo.
 •	Cuál es la incidencia de la tasa de escolaridad y tasa de deserción estudiantil frente a homicidios.
@@ -24,6 +25,9 @@ Metodología:
 8. Analisis descriptivo y correlación entre variables.
 9. Elaboración del modelo
 10. Conclusión
+
+Lo anterior se realizó a través de la extracción de datos de fuentes oficiales de información tales como el Instituto Nacional de Medicina Legal y Ciencias Forenses – INMLCF, Sistema de Información Red de Desaparecidos y Cadáveres – SIRDEC, DANE y Ministerio Nacional de Educación.
+Una vez obtenidos los datos, se procedió a realizar análisis de correlación y la aplicación de un modelo econométrico espacial empleando Python y análisis de datos a través de Power BI.
 
 Los principales resultados de esta investigación se pueden  evidenciar aqui: 
 https://app.powerbi.com/view?r=eyJrIjoiN2I5MDFmY2QtMDJmNS00N2JlLWEyYWQtNTczNTRlYjc4Y2U0IiwidCI6ImFlNTI1NzU3LTg5YmEtNGQzMC1hMmY3LTQ5Nzk2ZWY4YzYwNCIsImMiOjR9
